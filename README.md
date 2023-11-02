@@ -135,13 +135,13 @@ Home Page:
 ![Home Page Wireframe](assets/readme-files/wireframe-home.png "Home Page Wireframe")
 
 Bio Page:
-![Protective Styles Page Wireframe](assets/readme-files/wireframe-style.png "Protective Styles Page Wireframe")
+![Flowers Page Wireframe](assets/readme-files/wireframe-flowers.png "Protective Styles Page Wireframe")
 
 Live Page:
-![Regimen Page Wireframe](assets/readme-files/wireframe-regimen.png "Regimen Page Wireframe")
+![Events Page Wireframe](assets/readme-files/wireframe-events.png "Regimen Page Wireframe")
 
 Press Kit Page:
-![Contact Us Page Wireframe](assets/readme-files/wireframe-contact.png "Contact Us Page Wireframe")
+![Contact Us Page Wireframe](assets/readme-files/wireframe-contact-us.png "Contact Us Page Wireframe")
 
 ### Design
 
@@ -151,9 +151,9 @@ The main colours used throughout the website are Eerie Black, Beaver with accent
 These chosen colours were because they are typically found in nature, and are complementary to the natural colours of flowers and plants. They also provoke feelings of self-care and serenity.  
 
 #### Typography
-The pairing of the fonts [Roboto](https://fonts.google.com/specimen/Roboto "Link to Roboto Google Font") and [Oswald](https://fonts.google.com/specimen/Oswald "Link to Oswald Google Font") is used throughout the website with Sans Serif as the fallback font in case of import failure. 
+The pairing of the fonts [Volkorn](https://fonts.google.com/specimen/Volkorn "Link to Volkorn Google Font") and [Montserrat](https://fonts.google.com/specimen/Montserrat "Link to Montserrat Google Font") is used throughout the website with Sans Serif as the fallback font in case of import failure. 
 
-For features that needed to be highlighted, such as the logo text and subheadings, the font [Codystar](https://fonts.google.com/specimen/Codystar "Link to Codystar Google Font") and [Petit Formal Script](http://fots.google.come/specimen/ "Link to Petit Formal Script Google Font") was used, with Sans Serif as the fallback.
+For features that needed to be highlighted, such as the logo text and subheadings, the font [Limelight](https://fonts.google.com/specimen/Limelight "Link to Limelight Google Font") and [Satisfy](http://fots.google.come/specimen/Satisfy "Link to Satisfy Google Font") was used, with Sans Serif as the fallback.
 
 #### Imagery
 The selected imagery is modern and cohesively aesthetic, reflecting the style and feel of the website. It is also supporting of any informative text presented. 
@@ -241,11 +241,15 @@ The developer ran into a number of issues during the development of the websites
 
 **Social Links footer bug** - A bug was detected when adding the footer to the contact us page. The footer (social media icons) were inside the contact us form. This was solved by finding that there was a missing </div> that was causing the footer to be picked up in the body of the contact us form and adding </div> in the appropriate place. 
 
-**Footer Issue on all pages** - A bug was detected when implementing the footer to be used for all pages. When looking on the ports the footer look disorientated and dimentions didn't reflect the codes in flowers.html, events.html and contact.html. [This was solved by adding a `media query` for large desktop's which would make the hero image only occupy 80% of the width of the page. On mobile view a second image that fitted nicely was implemented in order to improve the look of the home page.]
+**Footer Issue on all pages** - A bug was detected when implementing the footer to be used for all pages. When looking on the ports the footer look disorientated and dimentions didn't reflect the codes in flowers.html, events.html and contact.html. [A `media query` was added however it didnt give the desired result therefore the developer removed the footer colour in order to fix the bug]
 
 **Contact Us form bug** - A bug was detected when testing the contact us form. You were able to put in one letter on the name field and you were also able to adjust the size of the comment box. This was fixed by adding a minimum character of 5 to the input fields giving the comment section a `resize: none;`.
 
+**Media and Audio bug** - Upon uploading the youtube video the developer couldn't connect [This was fixed by implementing 'embed' within the url]
+
 **Commits** - Whilst coding the developer had missed the important action of committing codes whilst building the webpage, when making small and substantial changes.
+
+
 
 [Back to top ⇧](#Dileitte)
 
