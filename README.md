@@ -265,11 +265,9 @@ The developer ran into a number of issues during the development of the websites
 - [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
      - Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 - [Git](https://git-scm.com/ "Link to Git homepage")
-     - Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.
+     - Git was used for version control by utilising the GitPod terminal to commit to Git and push to GitHub.
 - [GitHub](https://github.com/ "Link to GitHub")
      - GitHub was used to store the project after pushing
-- [Figma](https://www.figma.com/ "Link to Figma homepage")
-     - Figma was used to create the wireframes during the design phase of the project.
 - [Balsamiq](http://balsamiq/cloud/ "Link to Balsamiq Homepage")
      - Balsamiq was used to create wireframes during the design phase of the project. 
 
@@ -331,22 +329,22 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 [Back to top ⇧](#Dileitte)
 
 ## Credits 
-- I would like to thank Emma Charles-Wilson and Harry Dhillon for the help on some of the codes and design bugs.
+- I would like to thank Emma Charles-Wilson for the help on some of the codes and design bugs and also the bug fix for the youtube video.
 - I would like to thank my friends and family for providing insite into how and if the website would work for them and if the content is clear.  
 
 ### Content
-- The text used in the About Us and Care Instructions section on the Main Page have been sourced from ...
+- The text used in the About Us and Care Instructions section on the Main Page have been sourced from the developer.
 - Photos in the Flowers Suggestion section were sourced from (https://www.moysesflowers.co.uk/) and (https://www.google.com)
 
 ### Media
-- Wash-day routine video was sourced from (https://www.youtube.com/watch?v=A4YMdv9Tqwo&t=3s)
+- How to make fresh flowers last longer video was sourced from (https://www.youtube.com/watch?v=4dx9AKW_P88)
 - All images from the flowers section images have been sourced from (https://www.moysesflowers.co.uk/) and all other images have been sourced from (https://www.google.com)
 
 ### Code 
 The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
 - [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
-- [Discover3c](https://emmacharleswilson.github.io/Discover3c/index.html "Link to Discover page")
+- [Dileitte](https://8000-dilsv-dileitte-m4sl1micfeh.ws-eu105.gitpod.io/index.html "Link to Discover page")
 
 [Back to top ⇧](#Dileitte)
 
