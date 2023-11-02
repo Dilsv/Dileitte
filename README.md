@@ -172,7 +172,7 @@ Each page of the website features a consistent responsive navigational system:
 - The **Footer** contains the appropriate **social media icons**, linking users to the appropriate social media site. On smaller screens the Footer decreases in size relative to the other elements on the page.
 - On smaller screens, the navigation bar shrinks in size and remains in the center of the webpage.
 
-### Testing
+### Testing 
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Dileitte">Home Page</a></dt>
