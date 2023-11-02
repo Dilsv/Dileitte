@@ -2,7 +2,7 @@
 
 ![Mockup Images](assets/readme-files/mockup-images.png)
 
-[View the live project here](https://emmacharleswilson.github.io/Discover3c/)
+[View the live project here](https://8000-dilsv-dileitte-m4sl1micfeh.ws-eu105.gitpod.io/)
 
 ## Table of contents
 1. [Introduction](#Introduction)
@@ -172,14 +172,15 @@ Each page of the website features a consistent responsive navigational system:
 - The **Footer** contains the appropriate **social media icons**, linking users to the appropriate social media site. On smaller screens the Footer decreases in size relative to the other elements on the page.
 - On smaller screens, the navigation bar shrinks in size and remains in the center of the webpage.
 
+### Testing
 
 <dl>
-  <dt><a href="index.html" target="_blank" alt="Discover3c Home Page">Home Page</a></dt>
-  <dd>The Home Page consists of a hero image and and about us section:
+  <dt><a href="index.html" target="_blank" alt="Dileitte">Home Page</a></dt>
+  <dd>The Home Page consists of a hero image, about us and care instructions section, featuring a Youtube Video:
      <ul>
-          <li><strong>Hero Image</strong> - Occupying 80% of the page width, while viewing on a desktop. On mobile devices the image changes to fit the screen better, while occupying 100% of the page width. The imagery used was specifically chosen as it created a impactful first impression, setting the tone of the website for the user.
+          <li><strong>Hero Image</strong> - Occupying 100% of the page width, while viewing on a desktop. On mobile devices the image changes to fit the screen better, while occupying 100% of the page width. The imagery used was specifically chosen as it created a impactful first impression, setting the tone of the website for the user.
           </li>
-          <li><strong>About Us text and imagegy</strong> - The text occupies 60% of the page width while textwrapping around the image. The what is 3c hair section has an image occupying 40% of the page width while the text stays at 60%. This was to make the viewing of this information clear and easy to understand. On smaller screens, the width of the text and imagery increases to take up 90% of the page width and all image size decreases retrospectively.  
+          <li><strong>About Us and Care Instructions text</strong> - The text occupies 60% of the page width while textwrapping around the image. The what is 3c hair section has an image occupying 40% of the page width while the text stays at 60%. This was to make the viewing of this information clear and easy to understand. On smaller screens, the width of the text and imagery increases to take up 90% of the page width and all image size decreases retrospectively.
           </li>
      </ul>
   </dd>
